@@ -1,1 +1,1 @@
-# animacao-texto
+Texto animado com keyframes CSS.
